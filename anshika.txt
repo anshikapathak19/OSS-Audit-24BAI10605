@@ -1,0 +1,7 @@
+THE OPEN SOURCE MANIFESTO
+Created by: Anshika on 29 March 2026
+----------------------------------------
+In a world of proprietary walls, I choose transparency.
+I rely on Python because it empowers my creativity.
+To me, software freedom is defined by sharing.
+I commit to building Full Stack Web Application to help others grow.
