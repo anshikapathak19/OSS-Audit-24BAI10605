@@ -55,11 +55,11 @@ chmod +x *.sh
 │── script4.sh
 │── script5.sh
 │── anshika.txt  (Generated Output)
-│──script1image.png
-│──script2.image.png
-│──script3.image.png
-│──script4image.png
-│──script5image.png
+│──script1image.jpg
+│──script2.image.jpg
+│──script3.image.jpg
+│──script4image.jpg
+│──script5image.jpg
 
 
 
